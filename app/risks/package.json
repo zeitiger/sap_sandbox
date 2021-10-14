@@ -17,5 +17,5 @@
         "@ui5/logger": "2.0.0",
         "@sap/ux-ui5-tooling": "1",
         "@sap/ux-specification": "latest"
-}
+    }
 }

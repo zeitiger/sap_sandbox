@@ -11,10 +11,10 @@
     "@sap/xssec": "^3.0.9",
     "express": "^4",
     "hdb": "^0.18.1",
-    "passport": "^0.4.1"
+    "passport": "^0.4.1",
+    "@sap/generator-fiori": "latest"
   },
   "devDependencies": {
-    "@sap/ux-specification": "^1.84.4",
     "sqlite3": "^5.0.2"
   },
   "engines": {
